@@ -4,7 +4,7 @@
 * Comfortable with JavaScript, React, Node.js, Tailwind CSS, MongoDB, and Java<br>
 * Passionate about writing clean, efficient, and maintainable code<br>
 * Actively working on full-stack projects and sharpening problem-solving skills<br>
-* Always learning — exploring system design, architecture, and modern dev practices<br>
+* Always learning and exploring tech related stuff to stay upto date<br>
 * Open to internships, collaborative projects, and entry-level SDE opportunities<br><br>
 
 
