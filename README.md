@@ -1,4 +1,4 @@
-# About Me:
+# About Me :
 * Aspiring Software Development Engineer (SDE) with a strong focus on DSA and full-stack development<br>
 * Enjoy solving algorithmic problems and building real-world applications<br>
 * Comfortable with JavaScript, React, Node.js, Tailwind CSS, MongoDB, C++ and Java<br>
